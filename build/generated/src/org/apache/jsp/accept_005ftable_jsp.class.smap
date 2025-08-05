@@ -1,0 +1,14 @@
+SMAP
+accept_005ftable_jsp.java
+JSP
+*S JSP
+*F
++ 0 accept_table.jsp
+accept_table.jsp
+*L
+5,20:46
+25:66,2
+26,15:68
+41,8:84
+48,7:92
+*E

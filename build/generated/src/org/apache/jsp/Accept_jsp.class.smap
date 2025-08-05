@@ -1,0 +1,14 @@
+SMAP
+Accept_jsp.java
+JSP
+*S JSP
+*F
++ 0 Accept.jsp
+Accept.jsp
+*L
+5,19:46
+24:65,2
+25,12:67
+37,14:80
+50,7:94
+*E

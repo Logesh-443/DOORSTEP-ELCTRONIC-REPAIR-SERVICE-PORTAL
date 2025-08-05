@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/tech_log1.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/view_feedback.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/style_1.css</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/tech_dash.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/feedback.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/contact.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/index.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/user_dash.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/tech_log.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/accepted_requests.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/view_feedback%201.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/src/java/SendEmailServlet.java</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/submit_appointment.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/profile_1.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/rejected_requests.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/admin_dash.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/user_log1.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/profile.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/about.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/appointment.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/src/java/techLog_servlet.java</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/src/java/user_servlet.java</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/user_log.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/add_tech.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/contact_1.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/add_user.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/logout.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/user_reg.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/view_user.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/service_req.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/src/java/userLog_servlet.java</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/ourservices.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/view_tech.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/logout_tech.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/tech_reg.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/logout_user.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/update_requests.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/appointment_success.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/view_req.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/src/java/UploadFileServlet_1.java</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/src/java/tech_servlet.java</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/admin_log.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/web/technicians.jsp</file>
+            <file>file:/C:/Users/Logesh%20seenivasan/OneDrive/logesh/Documents/NetBeansProjects/DES_1/src/java/UploadFileServlet.java</file>
+        </group>
+    </open-files>
+</project-private>

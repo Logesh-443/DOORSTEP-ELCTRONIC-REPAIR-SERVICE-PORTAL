@@ -1,0 +1,133 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13 Mar, 2025, 10:03:56 PM
+    Author     : Logesh seenivasan
+*/
+div.login {
+    width: 50%;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    background: transparent;
+    border: 4px solid tomato;
+    box-shadow: 0 0 15px blue;
+}
+
+.login {
+    text-align: center;
+    width: 400px;
+    box-sizing: border-box;
+    padding: 40px;
+    background: rgb(84, 86, 99);
+    border-radius: 0 100px;
+}
+
+.login h2 {
+    margin: 0 0 20px;
+    padding: 0;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.login .input-group {
+    position: relative;
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+.login .input-group input,
+select {
+    height: 50px;
+    width: 100%;
+    padding: 0 20px;
+    box-sizing: border-box;
+    font-size: 18px;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 0 10px;
+    font-weight: 300;
+    background-color: gainsboro;
+}
+
+.login .input-group span {
+    position: absolute;
+    top: 16px;
+    left: 20px;
+    padding: 0;
+    transition: 0.5s;
+    pointer-events: none;
+    background: gainsboro;
+    text-transform: uppercase;
+}
+
+.login .input-group input:focus~span {
+    top: -10px;
+    left: 15px;
+    font-size: 12px;
+    padding: 2px 4px;
+    border: 1px solid white;
+    background: tomato;
+    color: white;
+}
+
+.login .input-group input:valid~span {
+    top: -10px;
+    left: 15px;
+    font-size: 12px;
+    padding: 2px 4px;
+    border: 1px solid white;
+    background: green;
+    color: white;
+}
+
+.login .input-group input[type="submit"] {
+    /*background: rgb(187, 104, 70);*/
+    border: none;
+    box-shadow: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: 100;
+    color: white;
+}
+
+.login .input-group input[type="submit"]:hover {
+    /*background: sandybrown;*/
+    box-shadow: 0 0 15px black;
+    color: black;
+}
+
+input[type="submit"] {
+    /*background: rgb(187, 104, 70);*/
+    border: none;
+    box-shadow: none;
+    cursor: pointer;
+    color: white;
+    outline: none;
+    height: 10px;
+    width: 50%;
+    padding: 0 5px;
+    box-sizing: border-box;
+    font-size: 10px;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 0 10px;
+    font-weight: 300;
+}
+
+input[type="submit"]:hover {
+    /*background: sandybrown;*/
+    box-shadow: 0 0 15px whitesmoke;
+    color: black;
+}
+/* div.login a {
+    text-decoration: none;
+    color: rgb(252, 198, 126);
+    font-family: Georgia, sans-serif;
+    font-size: 18px;
+    text-shadow: 0 0 1px black;
+} */

@@ -1,0 +1,14 @@
+SMAP
+add_005ftech_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_tech.jsp
+add_tech.jsp
+*L
+5,12:46
+17:58,3
+18:61
+19,23:63
+41,4:86
+*E

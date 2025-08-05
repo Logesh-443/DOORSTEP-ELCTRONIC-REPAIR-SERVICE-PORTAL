@@ -1,0 +1,16 @@
+SMAP
+rejected_005frequests_jsp.java
+JSP
+*S JSP
+*F
++ 0 rejected_requests.jsp
+rejected_requests.jsp
+*L
+5,60:45
+65,11:106
+75,2:117
+77,5:119,3
+82,3:134
+85,6:138
+90,9:144
+*E
